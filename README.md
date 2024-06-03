@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mr-chan-06
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning full stack
+- 🌱 I’m Full stack Developer
 - 💞️ I’m looking to collaborate on development
 - 📫 How to reach me chan638356@gmail.com
 - 😄 Pronouns: Buddy, Dude
